@@ -1,4 +1,4 @@
 # first
 it is my first repository
 <br>
-author ahmed rizwan
+author ahmed rizwan gujjar
